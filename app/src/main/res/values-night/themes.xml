@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Animaze" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="android:statusBarColor">@color/yellow_800</item>
+    </style>
+
+    <style name="Theme.Animaze" parent="Base.Theme.Animaze" />
+</resources>
